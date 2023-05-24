@@ -1,2 +1,3 @@
 # pulse_oximetry_correction_models
 This is a project I worked on at MIT critical datathon
+The main challenge of the Datathon was to create Correction Models for Pulse Oximetry that map SaO2 from SpO2 measurements. Patients of color often have falsely elevated O2 readings due to limitations in pulse oximetry performance across different skin pigmentation. Therefore, due to these errors many patients of color are exposed to downstream harm such as delayed admnistration of supplement oxygenation and even mortality. This project aims at providing clinicians with a model that can alert cases of hidden hypoxemeia(cases of elevated O2 readings) allowing them to do secondary test for oxygen saturation(blood gas test).
